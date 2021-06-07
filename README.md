@@ -105,6 +105,6 @@ Licencja: MIT
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
 |R5|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
 |R6|2|Przewijać stronu w dół|Wyświetlenie atrakcje|
-|R7|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
+|R7|3|Kliknąć przycisk 'Pogoda'|Wyświetlenie się modułu z pogodą|
 |R8|2|||
 
