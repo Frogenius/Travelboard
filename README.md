@@ -34,8 +34,8 @@ Licencja: MIT
 #### Wymagania funkcjonalne
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
 |:-:|:-:|:-|:-|:-|:-:|
-|1|funkcjonalne||Logowanie|Możliwość zalogowania się na swój profil|1|
-|2|funkcjonalne||Rejestracja|Możliwość rejestracji i utworzenia swojego profilu|1|
+|1|funkcjonalne|Autoryzacja|Logowanie|Możliwość zalogowania się na swój profil|1|
+|2|funkcjonalne|Autoryzacja|Rejestracja|Możliwość rejestracji i utworzenia swojego profilu|1|
 |3|funkcjonalne|Nawigacja|Wybór miasta|Możliwość ustawienia miasta|1|
 |4|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
 |5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|1|
@@ -99,11 +99,12 @@ Licencja: MIT
 ## 6. Scenariusze testów
 | Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
-|R1|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
-|R2|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
-|R3|1|||
-|R4|2|||
-|R5|3|||
-|R6|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
-|R7|2|||
+|R1|1|||
+|R2|1|||
+|R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
+|R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
+|R5|1|||
+|R6|2|||
+|R7|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
+|R8|2|||
 
