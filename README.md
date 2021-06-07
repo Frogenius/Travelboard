@@ -38,8 +38,8 @@ Licencja: MIT
 |2|funkcjonalne|Autoryzacja|Rejestracja|Możliwość rejestracji i utworzenia swojego profilu|1|
 |3|funkcjonalne|Nawigacja|Wybór miasta|Możliwość ustawienia miasta|1|
 |4|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
-|5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|1|
-|6|funkcjonalne|Dostosowanie wyników|Wyszukiwarka atrakcji|Przeglądania atrakcji z opisem w sposób przewijania|2|
+|5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|2|
+|6|funkcjonalne|Dostosowanie wyników|rzeglądanie atrakcji|Przeglądania atrakcji z opisem w sposób przewijania|2|
 |7|funkcjonalne|Projektowe|Pogoda|Wyświetlenie informacje meteorologiczne w zakładce "Pogoda"|3|
 |8|funkcjonalne|Projektowe|Podłączenie bazy danych|Zapis danych z wykorzystaniem SQLite|2|
 
@@ -99,12 +99,12 @@ Licencja: MIT
 ## 6. Scenariusze testów
 | Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
-|R1|1|Kliknąć przycisk 'Log in'|Pojawienie się strony głównej aplikacji TravelBoard z menu|
-|R2|1|Kliknąć przycisk 'Sign up'||
+|R1|1|Kliknąć przycisk 'Log in'||
+|R2|1|||
 |R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
-|R5|1|||
-|R6|2|||
+|R5|2|||
+|R6|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
 |R7|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
 |R8|2|||
 
