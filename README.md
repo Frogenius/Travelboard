@@ -97,7 +97,7 @@ Licencja: MIT
 <div id='id-section6'/>
 
 ## 6. Scenariusze testów
-| Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
+| Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |
 |:-:|:-:|:-|:-|
 |R1|1|Wpisać swoje dane do logowania do profilu (email, hasło) i kliknąć przycisk 'Log in'|Pojawienie się strony głównej aplikacji TravelBoard z menu dla danego użytkownika|
 |R2|1|Kliknąć przycisk 'Sign up'|Pojawienie się panelu rejestracyjnego do tworzenia profila użytkownika|
