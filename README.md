@@ -106,4 +106,5 @@ Licencja: MIT
 |R5|3|||
 |R6|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
 |R7|2|||
+|R8||||
 
