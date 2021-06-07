@@ -65,6 +65,7 @@ Licencja: MIT
 
 ![alt text](img/Diagram.png)
 
+
 ### ⠀Diagram wdrożenia
 
 ![alt text](img/dw.png)
