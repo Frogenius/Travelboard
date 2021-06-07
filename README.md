@@ -39,7 +39,7 @@ Licencja: MIT
 |3|funkcjonalne|Nawigacja|Wybór miasta|Możliwość ustawienia miasta|1|
 |4|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
 |5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|2|
-|6|funkcjonalne|Dostosowanie wyników|rzeglądanie atrakcji|Przeglądania atrakcji z opisem w sposób przewijania|2|
+|6|funkcjonalne|Dostosowanie wyników|Przeglądanie atrakcji|Przeglądania atrakcji z opisem w sposób przewijania|2|
 |7|funkcjonalne|Projektowe|Pogoda|Wyświetlenie informacje meteorologiczne w zakładce "Pogoda"|3|
 |8|funkcjonalne|Projektowe|Podłączenie bazy danych|Zapis danych z wykorzystaniem SQLite|2|
 
