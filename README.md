@@ -97,15 +97,15 @@ Licencja: MIT
 <div id='id-section6'/>
 
 ## 6. Scenariusze testów
-| Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |
+| Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
-|R1|1|Wpisać swoje dane do logowania do profilu (email, hasło) i kliknąć przycisk 'Log in'|Pojawienie się strony głównej aplikacji TravelBoard z menu dla danego użytkownika|
+|R1|1|Kliknąć przycisk 'Log in' i wpisać swoje dane do logowania do profilu (email, hasło)|Pojawienie się strony głównej aplikacji TravelBoard z menu|
 |R2|1|Kliknąć przycisk 'Sign up'|Pojawienie się panelu rejestracyjnego do tworzenia profila użytkownika|
-|R2|1|Wpisać swój email, imie użytkownika, hasło i go powtórzyć jeszcze raz, numer telefonu i kliknąć przycisk 'Sign up'|Pojawienie się strony głównej aplikacji TravelBoard z menu dla nowo zarejestrowanego użytkownika |
 |R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
-|R5|2|||
+|R5|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
 |R6|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
 |R7|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
-|R8|2|||
+|R8|2| Klikniąć przycisk 'Log in'|Sprawdzanie użytkownika w bazie danych i porównywanie hasełą|
+|R8|2| Klikniąć przycisk 'Sign up'|1. Sprawdzanie, czy istnieje użytkownik o tej nazwie             2. Sprawdzanie haseł w dwóch polach                   3. Zapisanie użytkownika do bazy danych lub błąd rejestracji
 
