@@ -34,8 +34,8 @@ Licencja: MIT
 #### Wymagania funkcjonalne
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
 |:-:|:-:|:-|:-|:-|:-:|
-|1|funkcjonalne||||1|
-|2|funkcjonalne||||1|
+|1|funkcjonalne||Logowanie|Możliwość zalogowania się na swój profil|1|
+|2|funkcjonalne||Rejestracja|Możliwość rejestracji i utworzenia swojego profilu|1|
 |3|funkcjonalne|Nawigacja|Wybór miasta|Możliwość ustawienia miasta|1|
 |4|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
 |5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|1|
@@ -106,5 +106,4 @@ Licencja: MIT
 |R5|3|||
 |R6|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
 |R7|2|||
-|R8||||
 
