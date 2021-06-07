@@ -104,9 +104,9 @@ Licencja: MIT
 |R2|1|Wpisać swój email, imie użytkownika, hasło i go powtórzyć jeszcze raz, numer telefonu i kliknąć przycisk 'Sign up'|Pojawienie się strony głównej aplikacji TravelBoard z menu dla nowo zarejestrowanego użytkownika |
 |R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
-|R5|2|||
-|R6|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
-|R7|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
+|R5|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
+|R6|2|Przewijanie listy atrakcji|Wyświetlenie atrakcje| 
+|R7|3|Kliknąć przycisk 'Pogoda'|Wyświetlenie się modułu z pogodą|
 |R8|2| Klikniąć przycisk 'Log in'|Sprawdzanie użytkownika w bazie danych i porównywanie hasełą|
 |R8|2| Klikniąć przycisk 'Sign up'|1. Sprawdzanie, czy istnieje użytkownik o tej nazwie             2. Sprawdzanie haseł w dwóch polach                   3. Zapisanie użytkownika do bazy danych lub błąd rejestracji
 
