@@ -100,7 +100,7 @@ Licencja: MIT
 | Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
 |R1|1|Kliknąć przycisk 'Log in'|Pojawienie się strony głównej aplikacji TravelBoard z menu|
-|R2|1|Kliknąć przycisk 'Sign up'|Pojawienie się panelu rejestracyjnego|
+|R2|1|Kliknąć przycisk 'Sign up'|Pojawienie się panelu rejestracyjnego do tworzenia konta użytkownika|
 |R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
 |R5|2|||
