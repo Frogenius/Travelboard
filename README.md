@@ -63,7 +63,7 @@ Licencja: MIT
 
 ### ⠀Diagram przypadków użycia 
 
-![alt text](img/Diagram.png)
+![alt text](img/Diagram1.png)
 
 
 ### ⠀Diagram wdrożenia
