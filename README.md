@@ -38,7 +38,7 @@ Licencja: MIT
 |2|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
 |3|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|1|
 |4|funkcjonalne|Dostosowanie wyników|Wyszukiwarka atrakcji|Wyszukiwanie atrakcji w sposób przeklikania zdjęć z opisem|2|
-|5|funkcjonalne|Dostosowanie wyników|Filtrowanie atrakcji|Możliwość filtrowania atrakcji według zainteresowań|3|
+|5|funkcjonalne|Dostosowanie wyników|Filtrowanie atrakcji|Możliwość zalogowania się na swój profil|3|
 |6|funkcjonalne|Projektowe|Pogoda|Wyświetlenie informacje meteorologiczne w zakładce "Pogoda"|3|
 |7|funkcjonalne|Projektowe|Podłączenie bazy danych|Zapis danych z wykorzystaniem SQLite|2|
 
