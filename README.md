@@ -108,6 +108,6 @@ Licencja: MIT
 |R5|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
 |R6|2|Przewijanie listy atrakcji|Wyświetlenie atrakcje| 
 |R7|3|Kliknąć przycisk 'Pogoda'|Wyświetlenie się modułu z pogodą|
-|R8|2| Klikniąć przycisk 'Log in'|Sprawdzanie użytkownika w bazie danych i porównywanie hasełą|
+|R8|2| Klikniąć przycisk 'Log in'|Sprawdzanie użytkownika w bazie danych i porównywanie haseł|
 |R8|2| Klikniąć przycisk 'Sign up'|1. Sprawdzanie, czy istnieje użytkownik o tej nazwie             2. Sprawdzanie haseł w dwóch polach                   3. Zapisanie użytkownika do bazy danych lub błąd rejestracji
 
