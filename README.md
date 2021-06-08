@@ -39,7 +39,7 @@ Licencja: MIT
 |3|funkcjonalne|Nawigacja|Wybór miasta|Możliwość ustawienia miasta|1|
 |4|funkcjonalne|Nawigacja|Mapa z atrakcjami|Wyświetlenie mapę regionu wraz z orientacyjną lokalizacją atrakcji w postaci pinezek na mapie|1|
 |5|funkcjonalne|Dostosowanie wyników|Informacja o atrakcji|Po kliknięciu na pinezkę system powinien wyświetlić podstawowe informacje o atrakcji: nazwę, opis, lokalizację|2|
-|6|funkcjonalne|Dostosowanie wyników|Przeglądanie atrakcji|Przeglądania atrakcji z opisem w sposób przewijania|2|
+|6|funkcjonalne|Dostosowanie wyników|Przeglądanie atrakcji|Przeglądania atrakcji z opisem|2|
 |7|funkcjonalne|Projektowe|Pogoda|Wyświetlenie informacje meteorologiczne w zakładce "Pogoda"|3|
 |8|funkcjonalne|Projektowe|Podłączenie bazy danych|Zapis danych z wykorzystaniem SQLite|2|
 
@@ -106,7 +106,7 @@ Licencja: MIT
 |R3|1|Kliknąć przycisk 'Wyszukaj' w menu głównym i wpisać wybrane miasto|Wyświetlenie modułu z atrakcjami wybranego miasta|
 |R4|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
 |R5|2|Kliknąć wybraną atrakcje|Wyświetlenie atrakcji z opisem|
-|R6|2|Przewijanie listy atrakcji|Wyświetlenie atrakcje| 
+|R6|2|Wpisując w wyszukiwarce miasto|Wyświetlenie listy z atrakcjami| 
 |R7|3|Kliknąć przycisk 'Pogoda'|Wyświetlenie się modułu z pogodą|
 |R8|2| Klikniąć przycisk 'Log in'|Sprawdzanie użytkownika w bazie danych i porównywanie haseł|
 |R8|2| Klikniąć przycisk 'Sign up'|1. Sprawdzanie, czy istnieje użytkownik o tej nazwie             2. Sprawdzanie haseł w dwóch polach                   3. Zapisanie użytkownika do bazy danych lub błąd rejestracji
